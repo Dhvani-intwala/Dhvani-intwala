@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhvani Intwala</h1>
-<img src ="" width=100%>
+<img src ="full-stack.jpg" width=100%>
 <h3 align="center">Full stack software developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
