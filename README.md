@@ -1,8 +1,23 @@
 <h1 align="center">Hi 👋, I'm Dhvani Intwala</h1>
-<h3 align="center">Full stack software developer</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/dhvani-intwala/" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://github.com/Dhvani-intwala" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  
+</div>
 
+
+<h2 align="center"> Glad to see you here! <h2/>
+<div align="center">I'm  Dhvani, the Full Stack Developer who's ready to take your web development to new heights! With my passion for coding and innovative thinking,I will bring your ideas to life and create a UX that will keep your customers coming back for more. Buckle up and get ready to launch your web development projects with me - the sky's the limit!🚀</div>
+
+
+
+<h4 align="left">Languages and Tools:</h4>
+  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -16,6 +31,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhvani-intwala&show_icons=true&locale=en" alt="dhvani-intwala" /></p>
