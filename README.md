@@ -2,7 +2,7 @@
 # DHVANI INTWALA
 ## Full Stack Software Developer
 
-<div align="center">I'm  Dhvani, the Full Stack Developer who's ready to take your web development to new heights! With my passion for coding and innovative thinking,I will bring your ideas to life and create a UX that will keep your customers coming back for more. Buckle up and get ready to launch your web development projects with me - the sky's the limit!🚀</div>
+<div>I'm  Dhvani, the Full Stack Developer who's ready to take your web development to new heights! With my passion for coding and innovative thinking,I will bring your ideas to life and create a UX that will keep your customers coming back for more. Buckle up and get ready to launch your web development projects with me - the sky's the limit!🚀</div>
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/dhvani-intwala/" target="_blank">
