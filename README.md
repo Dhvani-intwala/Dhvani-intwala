@@ -55,8 +55,7 @@
 ![GitHub Pages](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Pages&color=222222&logo=GitHub+Pages&logoColor=FFFFFF&label=)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white) ![Ionos](https://img.shields.io/static/v1?style=for-the-badge&message=Ionos&color=003D8F&logo=Ionos&logoColor=FFFFFF&label=)
 
-
-<!--- #### 🧪 Testing
+#### 🧪 Testing
 
 
 #### 💻 Version Control, IDE's & Other Coding Content 
