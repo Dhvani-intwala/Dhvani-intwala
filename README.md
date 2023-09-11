@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhvani Intwala</h1>
+![Banner Image for dhvani intwala GitHub Profile](dhvani-intwala.png)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dhvani-intwala/" target="_blank">
