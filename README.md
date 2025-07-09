@@ -1,4 +1,4 @@
-![Banner Image for dhvani intwala GitHub Profile](Dhvani-intwala.png)
+![Banner Image for dhvani intwala GitHub Profile](dhvani-intwala.jpg)
 # DHVANI INTWALA
 ## Full Stack Software Developer
 
